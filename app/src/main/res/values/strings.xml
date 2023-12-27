@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileExamples</string>
+    <string name="context_menu_rename">Đổi tên</string>
+    <string name="context_menu_delete">Xóa</string>
+    <string name="confirm_delete_title">Xác nhận</string>
+    <string name="confirm_delete_message">Bạn có chắc chắn muốn xóa %s?</string>
+
+<!--    <string name="confirm_delete_message">Do you really want to delete the file %s?</string>-->
+
+</resources>
